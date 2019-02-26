@@ -1,0 +1,16 @@
+{
+  "name": "Section5_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ml-dataset-iris": "^1.0.0",
+    "ml-kmeans": "^4.2.1"
+  }
+}

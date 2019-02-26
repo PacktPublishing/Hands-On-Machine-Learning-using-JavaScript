@@ -1,0 +1,19 @@
+{
+  "name": "Section1_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.5",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "ml-regression": "^4.4.2",
+    "popper.js": "^1.14.7"
+  }
+}
