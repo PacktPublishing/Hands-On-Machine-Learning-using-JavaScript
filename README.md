@@ -28,9 +28,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a JavaScript developer and want to implement machine learning to make applications smarter, gain insightful information from data, and enter the field of machine learning without switching to another language, this course is for you. Working knowledge of JavaScript is assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Operating system: Linux, Windows or Mac
-Browser: Chrome Latest 
-Node.js Installed
+<H2>Operating system:</H2>
+<LI>Linux, Windows or Mac</LI>
+<LI>Browser: Chrome (Latest)</LI>
+<LI>Node.js Installed</LI>
 
 
 
